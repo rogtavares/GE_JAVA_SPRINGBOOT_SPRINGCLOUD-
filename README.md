@@ -1,18 +1,17 @@
-# Curso para aprender a estruturar um sistema de microsserviços Java com Spring Boot e Spring Cloud.  V2 
+# Estudo para desenvolver e aprender a estruturar um sistema de microsserviços Java com Spring Boot e Spring Cloud.  V2 
 28 de maio de 2023 . RT 
 ####  Aprendi com (baita) professor Nelio Alves 
 https://www.udemy.com/user/nelio-alves
 
-Curso para rodar com Java 11 e Spring Boot 2,3.
-esta no E:\Program Files (x86)\Java\zulu11.64.19-ca-jdk11.0.19-win_x64
+Tem rodar com Java 11 e Spring Boot 2,3
 
+esta no E:\Program Files (x86)\Java\zulu11.64.19-ca-jdk11.0.19-win_x64
 
 # Collection Postman completa
 
 https://api.postman.com/collections/1242165-67d08dc0-531c-45aa-a211-a02cba6f0e5d?access_key=PMAT-01GKP91EKZCH09H3PX5YYXESA1
 
 ### Environment Postman
-
 
 api-gateway : http://localhost:8765
 config-host : http://localhost:8888
